@@ -157,20 +157,23 @@ section a {
 .btn-dark-outline {
     border-color: #000;
     color: #000;
+    background-color: transparent;
 }
 .btn-dark-outline:hover, .btn-light-outline:hover {
     background-color: rgba(0, 0, 0, 0.6);
+    color: #fff;
 }
 .btn-light-outline {
     border-color: #fff;
-    color: #fff;
+    color: #000;
 }
 .btn-dark {
     background-color: #000;
     color: #fff;
 }
 .btn-dark:hover {
-    background-color: #333;
+    background-color: #fff;
+    color: #000;
 }
 /* BACKGROUNDS */
 .bg-primary {

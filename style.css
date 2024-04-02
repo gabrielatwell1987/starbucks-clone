@@ -310,7 +310,7 @@ section a {
     overflow: hidden;
 }
 .margin {
-    margin-top: 5rem;
+    margin-top: 8rem;
 }
 @media (max-width: 960px) {
     .text-xl {
@@ -323,7 +323,7 @@ section a {
         font-size: 19px;
     }
     .margin {
-        margin-top: 5rem;
+        margin-top: 8rem;
     }
 }
 @media (max-width: 768px) {
@@ -355,5 +355,8 @@ section a {
     }
     .divider {
         max-width: 90%;
+    }
+    .margin {
+        margin-top: 10rem;
     }
 }

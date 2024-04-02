@@ -309,6 +309,9 @@ section a {
 .no-scroll {
     overflow: hidden;
 }
+.margin {
+    margin-top: 2rem;
+}
 @media (max-width: 960px) {
     .text-xl {
         font-size: 30px;
